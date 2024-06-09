@@ -1,0 +1,63 @@
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\appsettings.Development.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\appsettings.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\GraphQL Crash.exe
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\GraphQL Crash.deps.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\GraphQL Crash.runtimeconfig.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\GraphQL Crash.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\GraphQL Crash.pdb
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\BananaCakePop.Middleware.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\GreenDonut.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Abstractions.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.AspNetCore.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Authorization.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Execution.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Execution.Abstractions.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Fetching.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Language.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Language.SyntaxTree.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Language.Utf8.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Language.Visitors.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Language.Web.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Subscriptions.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Subscriptions.InMemory.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Transport.Sockets.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Types.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Types.CursorPagination.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Types.Mutations.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Types.OffsetPagination.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Types.Scalars.Upload.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Types.Shared.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Utilities.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Utilities.DependencyInjection.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\HotChocolate.Validation.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Microsoft.Bcl.TimeProvider.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\System.Collections.Immutable.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\System.Text.Json.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\bin\Debug\net6.0\Yarp.ReverseProxy.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.csproj.AssemblyReference.cache
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.AssemblyInfoInputs.cache
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.AssemblyInfo.cs
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.csproj.CoreCompileInputs.cache
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.MvcApplicationPartsAssemblyInfo.cs
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.MvcApplicationPartsAssemblyInfo.cache
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets\msbuild.GraphQL Crash.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets\msbuild.build.GraphQL Crash.props
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.GraphQL Crash.props
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.GraphQL Crash.props
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets.build.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\staticwebassets.development.json
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\scopedcss\bundle\GraphQL Crash.styles.css
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.csproj.CopyComplete
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\refint\GraphQL Crash.dll
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.pdb
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\GraphQL Crash.genruntimeconfig.cache
+D:\Workspace\GraQL-Crash\GraphQL Crash\obj\Debug\net6.0\ref\GraphQL Crash.dll

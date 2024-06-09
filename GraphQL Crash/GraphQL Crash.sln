@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL Crash", "GraphQL Crash.csproj", "{05DDD713-FC23-4389-AB3F-EF3C31AC12FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQL Crash 2", "..\GraphQL Crash 2\GraphQL Crash 2.csproj", "{3CB6933E-843B-4357-BED5-DBC16139FDD7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05DDD713-FC23-4389-AB3F-EF3C31AC12FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DDD713-FC23-4389-AB3F-EF3C31AC12FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DDD713-FC23-4389-AB3F-EF3C31AC12FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DDD713-FC23-4389-AB3F-EF3C31AC12FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB6933E-843B-4357-BED5-DBC16139FDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CB6933E-843B-4357-BED5-DBC16139FDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CB6933E-843B-4357-BED5-DBC16139FDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CB6933E-843B-4357-BED5-DBC16139FDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F07D609-8884-45F2-A1E7-7F5132831D0D}
+	EndGlobalSection
+EndGlobal
